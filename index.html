@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz de Geografia</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background"></div> <!-- Elemento para o background animado -->
+
+    <div class="container">
+      <h1 class="purples">Quiz de Geografia</h1>
+        <div id="login">
+            <input type="text" id="playerName" placeholder="Digite seu nome">
+          <button class="button-30" role="button" onclick="startQuiz()">Iniciar Jogo</button>
+        </div>
+        <div id="difficulty" style="display: none;">
+            <p>Escolha a dificuldade:</p>
+            <select id="difficultySelect">
+                <option value="easy">Fácil</option>
+                <option value="medium">Médio</option>
+                <option value="hard">Difícil</option>
+            </select>
+              <button class="button-31" role="button" onclick="loadQuestions()">Iniciar</button>
+        </div>
+        <div id="quiz" style="display: none;">
+            <p id="question"></p>
+            <div id="options"></div>
+              <button class="button-30" role="button" onclick="nextQuestion()">Próxima Pergunta</button>
+        </div>
+        <div id="result" style="display: none;">
+            <p id="resultText"></p>
+              <button class="button-30" role="button" onclick="restartQuiz()">Reiniciar Jogo</button>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
+<script src="questions.json"></script>
+    <script src="script.js"></script>
+</body>
+</html>
