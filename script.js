@@ -41,7 +41,7 @@ function showQuestion() {
     current.options.forEach(option => {
         const button = document.createElement('button');
         button.textContent = option;
-        button.className = 'quiz-button'; // Adicionando a classe 'quiz-button' aos botões
+        button.className = 'quiz-button';
         button.onclick = () => checkAnswer(option === current.answer);
         optionsDiv.appendChild(button);
     });
