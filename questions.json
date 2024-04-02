@@ -31,16 +31,6 @@
         "answer": "Buenos Aires"
     },
     {
-        "question": "Qual é o oceano que banha a costa leste do continente africano?",
-        "options": ["Oceano Atlântico", "Oceano Índico", "Mar Mediterrâneo", "Mar Vermelho"],
-        "answer": "Oceano Índico"
-    },
-    {
-        "question": "Qual é o maior lago da América do Sul?",
-        "options": ["Lago Titicaca", "Lago de Maracaibo", "Lago de Itaipu", "Lago Guaíba"],
-        "answer": "Lago Titicaca"
-    },
-    {
         "question": "Qual é o país com a maior população do mundo?",
         "options": ["China", "Índia", "Estados Unidos", "Indonésia"],
         "answer": "China"
@@ -56,11 +46,6 @@
         "answer": "Canadá"
     },
     {
-        "question": "Qual é o maior arquipélago do mundo?",
-        "options": ["Indonésia", "Filipinas", "Japão", "Nova Zelândia"],
-        "answer": "Indonésia"
-    },
-    {
         "question": "Qual é o deserto mais frio do mundo?",
         "options": ["Deserto do Saara", "Deserto da Antártida", "Deserto de Gobi", "Deserto da Arábia"],
         "answer": "Deserto da Antártida"
@@ -71,19 +56,9 @@
         "answer": "Brasil"
     },
     {
-        "question": "Qual é o ponto mais alto da América do Sul?",
-        "options": ["Monte Aconcágua", "Monte Ojos del Salado", "Monte Huascarán", "Monte Fitz Roy"],
-        "answer": "Monte Aconcágua"
-    },
-    {
         "question": "Qual é o país mais extenso do mundo em área territorial?",
         "options": ["Rússia", "Canadá", "China", "Estados Unidos"],
         "answer": "Rússia"
-    },
-    {
-        "question": "Qual é o país que possui a maior quantidade de vulcões ativos?",
-        "options": ["Indonésia", "Filipinas", "Japão", "Itália"],
-        "answer": "Indonésia"
     },
     {
         "question": "Qual é a capital da Espanha?",
@@ -94,11 +69,6 @@
         "question": "Qual é o maior rio da América do Norte?",
         "options": ["Rio Mississippi", "Rio Missouri", "Rio Colorado", "Rio São Lourenço"],
         "answer": "Rio Mississippi"
-    },
-    {
-        "question": "Qual é o país com a maior quantidade de Patrimônios Mundiais da UNESCO?",
-        "options": ["Itália", "China", "França", "Espanha"],
-        "answer": "Itália"
     },
     {
         "question": "Qual é o país que possui a maior quantidade de ilhas?",
@@ -132,65 +102,15 @@
             "options": ["Deserto do Saara", "Deserto de Atacama", "Deserto da Arábia", "Deserto de Mojave"],
             "answer": "Deserto do Saara"
         },
-        {
-            "question": "Qual é o maior lago do mundo em volume de água?",
-            "options": ["Lago Vitória", "Lago Superior", "Lago Baikal", "Lago Michigan"],
-            "answer": "Lago Baikal"
-        },
-        {
-            "question": "Qual é a montanha mais alta da América do Sul?",
-            "options": ["Monte Aconcágua", "Monte Chimborazo", "Monte Ojos del Salado", "Monte Fitz Roy"],
-            "answer": "Monte Aconcágua"
-        },
-      {
-        "question": "Qual é o país mais populoso da África?",
-        "options": ["Nigéria", "Egito", "Etiópia", "República Democrática do Congo"],
-        "answer": "Nigéria"
-      },
-      {
-        "question": "Qual é o maior país da América do Sul em área territorial?",
-        "options": ["Brasil", "Argentina", "Peru", "Colômbia"],
-        "answer": "Brasil"
-      },
-      {
-        "question": "Que país é conhecido como 'a terra dos cangurus'?",
-        "options": ["Austrália", "Nova Zelândia", "África do Sul", "Canadá"],
-        "answer": "Austrália"
-      },
       {
         "question": "Qual é o país mais populoso do Sudeste Asiático?",
         "options": ["Indonésia", "Filipinas", "Vietnã", "Tailândia"],
         "answer": "Indonésia"
       },
       {
-        "question": "Em que país fica a cidade de Petra, conhecida por suas ruínas antigas esculpidas na rocha?",
-        "options": ["Jordânia", "Israel", "Líbano", "Síria"],
-        "answer": "Jordânia"
-      },
-      {
-        "question": "Qual é o maior lago da África e em qual país está localizado?",
-        "options": ["Lago Vitória", "Lago Tanganica", "Lago Niassa", "Lago Chade"],
-        "answer": "Lago Vitória"
-      },
-      {
-        "question": "Que país europeu é conhecido por ter o formato de uma bota?",
-        "options": ["Itália", "Espanha", "Grécia", "Portugal"],
-        "answer": "Itália"
-      },
-      {
         "question": "Qual é o país mais setentrional do mundo?",
           "options": ["Rússia", "Canadá", "Noruega", "Islândia"],
           "answer": "Rússia"
-      },
-      {
-        "question": "Quais são os cinco países que formam a Escandinávia?",
-        "options": ["Suécia, Noruega, Dinamarca, Finlândia, Islândia", "Suécia, Dinamarca, Finlândia, Estônia, Noruega", "Noruega, Suécia, Finlândia, Islândia, Dinamarca", "Finlândia, Suécia, Noruega, Islândia, Dinamarca"],
-        "answer": "Suécia, Noruega, Dinamarca, Finlândia, Islândia"
-      },
-      {
-        "question": "Qual é o rio mais longo da América do Sul e em que países ele passa?",
-        "options": ["Rio Amazonas", "Rio Paraná", "Rio Uruguai", "Rio Madeira"],
-        "answer": "Rio Amazonas"
       },
       {
         "question": "Que região é conhecida como 'o berço da civilização' devido à sua importância histórica na antiguidade?",
@@ -206,11 +126,6 @@
         "question": "Em que país se encontra o deserto de Atacama, considerado o deserto mais árido da Terra?",
         "options": ["Chile", "Argentina", "Peru", "Bolívia"],
         "answer": "Chile"
-      },
-      {
-        "question": "Qual é a maior ilha do Mediterrâneo?",
-        "options": ["Sicília", "Córsega", "Sardenha", "Chipre"],
-        "answer": "Sicília"
       },
       {
         "question": "Que país é conhecido por ter uma população majoritariamente hindu?",
@@ -233,11 +148,6 @@
             "question": "Qual é o ponto mais alto do mundo?",
             "options": ["Monte Everest", "Monte Kilimanjaro", "Monte McKinley", "Monte Fuji"],
             "answer": "Monte Everest"
-        },
-        {
-            "question": "Qual é o lago mais profundo do mundo?",
-            "options": ["Lago Baikal", "Lago Tanganica", "Lago Michigan", "Lago Superior"],
-            "answer": "Lago Baikal"
         },
         {
             "question": "Qual é o maior arquipélago do mundo?",
@@ -285,29 +195,9 @@
           "answer": "Israel"
       },
       {
-        "question": "Qual é a ilha vulcânica mais alta do mundo e em que país ela está localizada?",
-        "options": ["Mauna Kea, Estados Unidos", "Monte Pico, Portugal", "Monte Fuji, Japão", "Monte Kilimanjaro, Tanzânia"],
-        "answer": "Mauna Kea, Estados Unidos"
-      },
-      {
-        "question": "Que país é conhecido por ter a maior concentração de vulcões ativos?",
-        "options": ["Indonésia", "Itália", "Japão", "Filipinas"],
-        "answer": "Indonésia"
-      },
-      {
-        "question": "Qual é o país com o maior número de zonas horárias?",
-        "options": ["França", "Estados Unidos", "Rússia", "Austrália"],
-        "answer": "Rússia"
-      },
-      {
         "question": "Qual é o maior rio do mundo em termos de volume de água?",
         "options": ["Rio Amazonas", "Rio Nilo", "Rio Yangtzé", "Rio Congo"],
         "answer": "Rio Amazonas"
-      },
-      {
-        "question": "Em que país está localizado o Mar de Aral, que sofreu um dramático encolhimento nas últimas décadas?",
-        "options": ["Uzbequistão", "Turcomenistão", "Cazaquistão", "Quirguistão"],
-        "answer": "Uzbequistão"
       },
       {
          "question": "Qual é o país mais montanhoso do mundo?",
@@ -323,11 +213,6 @@
         "question": "Qual é o maior país insular do mundo em área territorial?",
         "options": ["Austrália", "Indonésia", "Japão", "Nova Zelândia"],
         "answer": "Indonésia"
-      },
-      {
-        "question": "Em que país está localizado o Deserto do Gobi?",
-          "options": ["Mongólia", "China", "Cazaquistão", "Rússia"],
-          "answer": "Mongólia"
       },
       {
         "question": "Qual é o país com a maior área de floresta tropical do mundo?",
